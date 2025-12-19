@@ -42,7 +42,3 @@
 - 🐙 GitHub: matinimmortal2
 - 📱 تلگرام: @matin_immortal
 
-
----
-
-⭐ از [مخزن من](https://github.com/matinimmortal2) دیدن کنید!
