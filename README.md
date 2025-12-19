@@ -42,3 +42,6 @@
 - 🐙 GitHub: matinimmortal2
 - 📱 تلگرام: @matin_immortal
 
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matinimmortal2&show_icons=true&theme=transparent)
