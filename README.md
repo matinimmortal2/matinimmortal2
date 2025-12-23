@@ -35,6 +35,12 @@
 - **تکنولوژی‌ها:** سایت برای یاگیری خودم با vscode نوشته شده و برنامه خاص دیگری استفاده نشده
 - **لینک:**     <a href="https://github.com/matinimmortal2/todo-list-application">to-do-list</a>
 
+### پروژه 2: سایت music-search
+- **توضیحات:** با استفاده از API موسیقی های مختلف را سرچ میکند .
+- **تکنولوژی‌ها:** HTML5 , CSS3 ,ES6 , ITuns search API
+- **لینک:**     <a href="https://github.com/matinimmortal2/music-search-app">music-search</a>
+
+
 ## 📫 ارتباط با من
 
 - 📧 ایمیل: matinimmortal@gmail.com
